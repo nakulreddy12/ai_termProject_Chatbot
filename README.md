@@ -1,7 +1,9 @@
  ### This is a AI-based business chatbot, particuularly trained on medical information using AI methodologies.
  
 
- ### It runs in the flask environment. A virtual environment may be needed to setup to run it in visual code. The packages that needed to be installed are in 'requirements.txt' file
+ ### It runs in the flask environment. A virtual environment may be needed to setup to run it in visual code. The packages that needed to be installed are in 'requirements.txt' file. You can install the requirements of the project directly using :
+ #### pip install -r requirements.txt
+ 
  
  ### The Chat-bot works as follows :
  
