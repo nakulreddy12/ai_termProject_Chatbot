@@ -8,6 +8,7 @@
  
  ### The Chat-bot works as follows :
  
-   ### It asks us to upload symptoms and as we upload each symptom it analyzes the disease, and after we are done it displays the the disease name, its description and precautions to be taken, and severity of symptoms. Based on the symptoms we provided and their severity the model we trained will evaluate the disease and states it.
+   ### It asks us to upload symptoms and as we upload each symptom it analyzes the disease, and after we are done it displays the the disease name, its description and precautions to be taken, and severity of symptoms. 
+   ### Based on the symptoms we provided and their severity the model we trained will evaluate the disease and states it.
  
  
